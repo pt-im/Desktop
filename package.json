@@ -2,7 +2,7 @@
   "name": "Pulse-desktop",
   "version": "1.0.1",
   "author": "Your Name",
-  "description": "Desktop client for https://sites.google.com/view/patreonpluss/chat",
+  "description": "Desktop client for https://pt-im.github.io/Forum/",
   "main": "src/main.js",
   "scripts": {
     "start": "electron .",
