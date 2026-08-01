@@ -2,7 +2,7 @@
   "name": "Pulse-desktop",
   "version": "1.0.1",
   "author": "Viral",
-  "description": "Desktop client for https://pt-im.github.io/Forum/",
+  "description": "Desktop client for https://forum-pt-im-cc.hungbbcllc.workers.dev/",
   "main": "src/main.js",
   "scripts": {
     "start": "electron .",
